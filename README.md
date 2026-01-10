@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>🔭 I’m currently working on  <br>Frontend and full-stack web development projects using React, JavaScript, and the MERN stack.<br><br>👯 I’m looking to collaborate on  <br>Open-source projects, frontend applications, and beginner-friendly full-stack projects.<br><br>🤝 I’m looking for help with  <br>Improving backend architecture, performance optimization, and real-world project scalability.<br><br>🌱 I’m currently learning  <br>Advanced React concepts, backend development with Express & MongoDB, and better Git workflows.<br><br>💬 Ask me about  <br>HTML, CSS, JavaScript, React, Git/GitHub, Vercel deployment, C, C++, and SQL.<br><br>⚡ Fun fact  <br>I enjoy turning simple ideas into fully working web applications and learning by building projects.
+##  BCA final-year student and Frontend Developer skilled in React and JavaScript. I build clean, responsive web applications and am actively seeking internship or fresher opportunities..
 
 
 ## 🌐 Socials:
