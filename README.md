@@ -1,27 +1,224 @@
-# 💫 About Me:
-##  BCA final-year student and Frontend Developer skilled in React and JavaScript. I build clean, responsive web applications and am actively seeking internship or fresher opportunities..
 
+<!-- ===================== HEADER ===================== -->
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im.akashrana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-rana-24478421b) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@im.akashrana.7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashrana49927@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vaniakash&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vaniakash&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaniakash&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# Hi, I'm Akash Rana 👋
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vaniakash&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### Full-Stack Developer | MERN Stack | MCA Student | Aspiring Android Developer
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Building practical web applications, exploring new technologies, and turning ideas into real-world projects.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vaniakash&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Full-Stack+Web+Developer;MCA+Student+at+Graphic+Era;Exploring+Android+Development;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=vaniakash&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
+</p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vaniakash&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ===================== ABOUT ME ===================== -->
+
+## 👨‍💻 About Me
+
+```javascript
+const akash = {
+    name: "Akash Rana",
+    education: "MCA — Graphic Era Deemed to be University",
+    role: "Full-Stack Developer",
+    specialization: "MERN Stack",
+    currentlyLearning: ["Advanced Backend Development", "Android Development"],
+    interests: [
+        "Building Web Applications",
+        "REST API Development",
+        "AI-Powered Applications",
+        "Mobile App Development"
+    ],
+    mindset: "Learn, Build, Improve, Repeat"
+};
+```
+
+- 🎓 Currently pursuing **MCA at Graphic Era Deemed to be University**.
+- 💻 Full-stack developer focused on the **MERN stack**.
+- ⚛️ Building responsive web applications and backend APIs.
+- 🚀 Interested in SaaS products, AI-powered applications, and scalable systems.
+- 📱 Aspiring Android developer, exploring mobile application development.
+- 🌱 Continuously learning through projects and hands-on experimentation.
+- 🤝 Open to collaboration, interesting projects, and developer opportunities.
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/akash-rana-24478421b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/im.akashrana">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://youtube.com/@im.akashrana.7">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:akashrana49927@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,c,html,css" alt="Programming Languages" />
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend Technologies" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend Technologies" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,npm,postman,vscode,figma" alt="Development Tools" />
+</p>
+
+### 📱 Currently Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" alt="Android Development" />
+</p>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 Eromify</h3>
+      <p>An AI-powered image generation SaaS platform.</p>
+      <p><strong>Tech:</strong> Next.js, TypeScript, MongoDB, Razorpay</p>
+    </td>
+    <td width="50%">
+      <h3>🏔️ HikingPlanet</h3>
+      <p>A trekking platform with trip information and booking functionality.</p>
+      <p><strong>Tech:</strong> Next.js, React, Tailwind CSS</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎭 Omogle</h3>
+      <p>A face-based battle game exploring browser computer vision.</p>
+      <p><strong>Tech:</strong> JavaScript, MediaPipe</p>
+    </td>
+    <td width="50%">
+      <h3>🌲 The Himalayan Roots</h3>
+      <p>A trekking and homestay website focused on Himalayan experiences.</p>
+      <p><strong>Tech:</strong> Next.js, React, Booking Integration</p>
+    </td>
+  </tr>
+</table>
+
+> Explore my GitHub repositories for more projects, experiments, and development work.
+
+---
+
+<!-- ===================== GITHUB STATISTICS ===================== -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaniakash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Akash's GitHub Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaniakash&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+<br/>
+
+<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=vaniakash&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+<!-- ===================== CONTRIBUTIONS ===================== -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaniakash&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph" />
+
+</div>
+
+---
+
+<!-- ===================== TROPHIES ===================== -->
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vaniakash&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+<!-- ===================== CURRENT GOALS ===================== -->
+
+## 🎯 Current Goals
+
+- [x] Build full-stack web applications.
+- [x] Work with REST APIs and databases.
+- [ ] Deepen backend architecture and system design knowledge.
+- [ ] Develop Android applications.
+- [ ] Build and publish a complete mobile application.
+- [ ] Contribute to open-source projects.
+
+---
+
+<!-- ===================== DEVELOPER QUOTE ===================== -->
+
+## 💭 Developer Mindset
+
+<div align="center">
+
+### "First, solve the problem. Then, write the code."
+
+*Keep building. Keep learning. Keep improving.*
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+**Let's connect, collaborate, and build something useful.**
+
+⭐ If you find my projects interesting, consider giving them a star.
+
+</div>
